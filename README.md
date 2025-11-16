@@ -1,131 +1,114 @@
 <!-- ======================================================
-                VISHAL MAURYA — NEXT LEVEL PROFILE
-         Clean • Modern • Portfolio-Grade • Professional
+                   VISHAL MAURYA — ULTIMATE++ VERSION
+      Portfolio-Grade • Professional • Clean • Modern Design
 ====================================================== -->
 
-<h1 align="center" style="font-weight:800; letter-spacing:-1px;">
-  Vishal Maurya
-</h1>
-
-<p align="center" style="font-size:16px; opacity:0.85;">
-  Frontend Developer • Learning Backend • Engineering Mindset  
+<!-- ====================== BANNER ======================== -->
+<p align="center">
+  <img src="banner.png" width="100%" alt="Vishal Maurya Banner"/>
 </p>
 
-<p align="center" style="max-width:650px; margin:auto; opacity:0.75;">
-  I build clean, fast and thoughtfully designed web experiences.  
-  Focused on JavaScript, UI development and scalable logic —  
-  while learning backend to grow into a full-stack developer.
+<h1 align="center" style="font-weight:900; letter-spacing:-1px; font-size:40px;">
+  Hello, I'm <span style="color:#6C63FF;">Vishal Maurya</span>
+</h1>
+
+<p align="center" style="font-size:18px; opacity:0.85; font-weight:500;">
+  Frontend Developer • Learning Backend • Passionate Web Crafter
+</p>
+
+<p align="center" style="max-width:750px; margin:auto; opacity:0.75; line-height:1.6;">
+  I design and develop clean, scalable and meaningful web experiences.
+  Skilled in HTML, CSS, JavaScript & UI development—currently learning Backend
+  (Node.js + MongoDB) to evolve into a full-stack developer.
 </p>
 
 <br/>
 
-<!-- ======================= SKILLS SECTION ======================= -->
+<!-- ====================== SKILLS GRID ======================== -->
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/html-5.png" width="55"/><br/>
+<strong>HTML5</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/css3.png" width="55"/><br/>
+<strong>CSS3</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/javascript.png" width="55"/><br/>
+<strong>JavaScript</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/nodejs.png" width="55"/><br/>
+<strong>Node.js</strong>
+</td>
+
+<td align="center" width="150">
+<img src="https://img.icons8.com/color/96/mongodb.png" width="55"/><br/>
+<strong>MongoDB</strong>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+# 🧰 Tools I Use
 
 <p align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1674F0?style=for-the-badge&logo=css3&logoColor=fff" />
-
-  <br/><br/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff" />
-
-  <br/><br/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/VS Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff"/>
-  
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Chrome DevTools-F7DF1E?style=for-the-badge&logo=google-chrome&logoColor=000"/>
 </p>
 
 ---
 
-## 🧭 Current Focus
+# 🌟 Featured Projects
 
-- Strengthening frontend skills  
-- Learning backend fundamentals (Node.js)  
-- Building small real-world JavaScript projects  
-- Clean UI + component-driven architecture  
-- Writing more maintainable JS code  
-- Improving debugging skills  
-
----
-
-# 🌟 Featured Work
-
-### 🎮 Rock • Paper • Scissors — *Modern Animated JS Game*
-A clean JavaScript game with simple UI logic and animations.  
+### 🎮 Rock • Paper • Scissors — *Modern UI + Game Logic*
+A clean animated game created using HTML, CSS & JavaScript.  
 - **Live Demo:** https://mauryavishal18.github.io/rock-paper-scissors/  
-- **Source Code:** https://github.com/Mauryavishal18/rock-paper-scissors  
+- **Code:** https://github.com/Mauryavishal18/rock-paper-scissors  
 
 ---
 
-### 🧠 Simon Says — *Memory-Based Interactive Game*
-A classic Simon memory challenge with sound, interaction and level logic.  
+### 🧠 Simon Says Game — *Memory Sequence Challenge*
+Sound, logic, animation — this project is a perfect JS practice game.  
 - **Live Demo:** https://mauryavishal18.github.io/simon-game/  
-- **Source Code:** https://github.com/Mauryavishal18/simon-game  
+- **Code:** https://github.com/Mauryavishal18/simon-game  
 
 ---
 
 ### 🧮 Simple Calculator — *Clean & Responsive*
-A lightweight browser-based calculator built with pure JavaScript.  
+A lightweight calculator to practice DOM and event handling.  
 - **Live Demo:** https://mauryavishal18.github.io/simple-calculator/  
-- **Source Code:** https://github.com/Mauryavishal18/simple-calculator  
+- **Code:** https://github.com/Mauryavishal18/simple-calculator  
 
 ---
 
-## 🧠 Engineering Approach
+# 🧭 About Me (Quick Facts)
 
-I believe in:
-
-- Simple > Complex  
-- Clarity > Clever tricks  
-- Consistency > Intensity  
-- Practical learning with projects  
-- Fundamentally strong code  
-
----
-
-# 📊 GitHub Insights
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Mauryavishal18&show_icons=true&hide_border=true&theme=react" 
-  height="165"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauryavishal18&layout=compact&hide_border=true&theme=react" 
-  height="165"
-/>
-
-</div>
+- 👨‍💻 Frontend Developer  
+- 📚 Currently learning Backend (Node.js + MongoDB)  
+- 🎯 Goal: Become a Full-Stack Developer  
+- ⚡ Loves building UI & JavaScript apps  
+- 🚀 Believes in learning-by-doing  
+- 🧠 Code philosophy: **"Simple. Scalable. Maintainable."**
 
 ---
 
-# 🔥 Activity Graph
+# 🕒 Developer Timeline
 
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=react-dark&hide_border=true&radius=8"
-    width="95%"
-  />
-</div>
-
----
-
-# 📬 Contact  
-📧 Email: **2k23.it2313958@gmail.com**
-
-<p align="center" style="opacity:0.8; margin-top:25px; font-size:14px;">
-  “Consistency turns beginners into professionals.”
-</p>
-
-<!-- ====================================================== -->
