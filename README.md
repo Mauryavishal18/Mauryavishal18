@@ -80,26 +80,23 @@
 
 ### 🎮 Rock • Paper • Scissors — *Modern UI + Game Logic*
 A clean animated game created using HTML, CSS & JavaScript.  
-
-**Live Demo →**  
-[![Live Demo Badge](https://img.shields.io/badge/🎮%20Play%20Now-Live%20Demo-brightgreen?style=for-the-badge)](https://mauryavishal18.github.io/rock-paper-scissors/)
-
-**Source Code →**  
-https://github.com/Mauryavishal18/rock-paper-scissors  
+- **Live Demo:** https://mauryavishal18.github.io/rock-paper-scissors/  
+- **Source Code:** https://github.com/Mauryavishal18/rock-paper-scissors  
 
 ---
 
 ### 🧠 Simon Says Game — *Memory Sequence Challenge*
 Sound, logic, animation — this project is a perfect JS practice game.  
 - **Live Demo:** https://mauryavishal18.github.io/simon-game/  
-- **Code:** https://github.com/Mauryavishal18/simon-game  
+- **Source Code:** https://github.com/Mauryavishal18/simon-game  
 
 ---
 
 ### 🧮 Simple Calculator — *Clean & Responsive*
 A lightweight calculator to practice DOM and event handling.  
 - **Live Demo:** https://mauryavishal18.github.io/simple-calculator/  
-- **Code:** https://github.com/Mauryavishal18/simple-calculator  
+- **Source Code:** https://github.com/Mauryavishal18/simple-calculator  
+
 
 ---
 
