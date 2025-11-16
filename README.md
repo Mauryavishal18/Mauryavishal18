@@ -4,9 +4,9 @@
 ====================================================== -->
 
 <!-- ====================== BANNER ======================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" width="100%" alt="Vishal Maurya Banner"/>
-</p>
+</p> -->
 
 <h1 align="center" style="font-weight:900; letter-spacing:-1px; font-size:40px;">
   Hello, I'm <span style="color:#6C63FF;">Vishal Maurya</span>
