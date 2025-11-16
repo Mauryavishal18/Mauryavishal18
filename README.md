@@ -80,8 +80,12 @@
 
 ### 🎮 Rock • Paper • Scissors — *Modern UI + Game Logic*
 A clean animated game created using HTML, CSS & JavaScript.  
-- **Live Demo:** https://mauryavishal18.github.io/rock-paper-scissors/  
-- **Code:** https://github.com/Mauryavishal18/rock-paper-scissors  
+
+**Live Demo →**  
+[![Live Demo Badge](https://img.shields.io/badge/🎮%20Play%20Now-Live%20Demo-brightgreen?style=for-the-badge)](https://mauryavishal18.github.io/rock-paper-scissors/)
+
+**Source Code →**  
+https://github.com/Mauryavishal18/rock-paper-scissors  
 
 ---
 
