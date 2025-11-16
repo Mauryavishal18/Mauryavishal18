@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center" style="font-size:15px; opacity:0.85;">
-  Software Developer • Backend Learner • Engineering Mindset
+  Web Developer • Backend Learner • Engineering Mindset
 </p>
 
 <p align="center" style="max-width:650px; margin:auto; opacity:0.8;">
