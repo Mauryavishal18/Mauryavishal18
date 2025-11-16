@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="vishalmaurya.png" width="100%" />
+</p>
 <!-- ===========================================
         VISHAL MAURYA — PRO MODE ++
      Clean • Professional • Minimal Branding
