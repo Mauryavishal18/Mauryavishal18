@@ -1,179 +1,248 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Maurya&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=57&descSize=16&animation=twinkling" width="100%"/>
+
+<p align="center">
+  <a href="https://github.com/Mauryavishal18">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Building+production-grade+applications+%F0%9F%9A%80;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Real+Impact;Currently+shipping%3A+DevTinder+%E2%80%94+Live+on+Render+%2B+Vercel" alt="Typing SVG"/>
+  </a>
+</p>
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Vishal%20Maurya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Full-Stack%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+[![GitHub followers](https://img.shields.io/github/followers/Mauryavishal18?style=flat-square&color=6C63FF&labelColor=1a1a2e&label=Followers)](https://github.com/Mauryavishal18)
+[![GitHub stars](https://img.shields.io/github/stars/Mauryavishal18?style=flat-square&color=6C63FF&labelColor=1a1a2e&label=Total%20Stars)](https://github.com/Mauryavishal18)
+![Profile views](https://komarev.com/ghpvc/?username=Mauryavishal18&style=flat-square&color=6C63FF&labelColor=1a1a2e&label=Profile+Views)
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Vishal+Maurya+👋;Frontend+Developer+%7C+UI+Enthusiast;Learning+Backend+%7C+Node.js+%2B+MongoDB;Building+Cool+Stuff+%F0%9F%9A%80;Code+Philosophy%3A+Simple.+Scalable.+Clean.)](https://git.io/typing-svg)
-
-</div>
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## `$ whoami`
 
-```javascript
-const vishal = {
-  name:       "Vishal Maurya",
-  role:       "Frontend Developer → Full-Stack (in progress)",
-  learning:   ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-  skills:     ["HTML5", "CSS3", "JavaScript", "React", "Git"],
-  currentlyBuilding: "DevTinder — A developer matching platform",
-  goal:       "Become a production-ready Full-Stack Developer",
-  philosophy: "Simple. Scalable. Maintainable.",
-  funFact:    "I debug with console.log and I'm proud of it 😄"
+```typescript
+const vishal: Developer = {
+  name:     "Vishal Maurya",
+  title:    "Full-Stack Developer",
+  location: "India 🇮🇳",
+
+  stack: {
+    frontend:  ["React", "Vite", "TailwindCSS", "Redux", "Framer Motion"],
+    backend:   ["Node.js", "Express.js", "REST APIs", "Socket.io"],
+    database:  ["MongoDB", "Mongoose"],
+    auth:      ["JWT", "bcrypt", "Cookie Sessions"],
+    devops:    ["Render", "Vercel", "MongoDB Atlas", "Cloudinary"],
+    tools:     ["Git", "GitHub", "VS Code", "Postman", "Nodemon"],
+  },
+
+  currentlyShipping: "DevTinder — Live in Production 🟢",
+  openTo:            ["Freelance", "Collabs", "Full-Time Roles"],
+  philosophy:        "Ship fast. Refactor smart. Never stop learning.",
 };
 ```
 
+<br/>
+
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Frontend
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Backend (Learning 📚)
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**DevOps & Cloud**
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
+<br/>
+
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### ⚡ DevTinder
-> *Developer Matching Platform — Full Stack*
+### ⚡ DevTinder — *Production Live 🟢*
+> Developer matching platform — like Tinder, but for coders.
 
-A Tinder-style app for developers to connect, match, and collaborate based on tech skills. Features real-time chat, JWT auth, and developer profiles.
+A full-stack, production-deployed web app where developers discover each other, match based on tech skills, chat in real-time, and collaborate. Built end-to-end from scratch.
 
-**Tech:** React • Node.js • MongoDB • Socket.io • JWT
+**What's inside:**
+- 🔐 JWT auth + bcrypt + HTTP-only cookies + rate limiting
+- 💬 Real-time chat via Socket.io + video/audio calls (WebRTC)
+- 📊 GitHub & LeetCode stats integration
+- 🧠 Dev DNA, Blind Dev Date, World Cup, AI Code Review features
+- 🖼️ WhatsApp-style image editor before send (crop/rotate/brightness)
+- 🌐 Deployed on **Render** (backend) + **Vercel** (frontend) + **MongoDB Atlas**
+- 🛡️ Helmet, rate limiting, NoSQL injection protection, CORS hardening
 
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mauryavishal18)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Rock Paper Scissors
-> *Modern UI + Animated Game Logic*
-
-A clean, fully responsive Rock Paper Scissors game with smooth animations and real-time score tracking built in vanilla JS.
-
-**Tech:** HTML5 • CSS3 • JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://mauryavishal18.github.io/rock-paper-scissors/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mauryavishal18/rock-paper-scissors)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Simon Says Game
-> *Memory Sequence Challenge*
-
-An interactive memory game with sound effects, color animations, and increasing difficulty levels. A perfect showcase of DOM manipulation and game logic.
-
-**Tech:** HTML5 • CSS3 • JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://mauryavishal18.github.io/simon-game/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mauryavishal18/simon-game)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧮 Simple Calculator
-> *Clean & Responsive*
-
-A lightweight, fully functional calculator with a clean UI. Demonstrates solid understanding of event handling, DOM manipulation and responsive design.
-
-**Tech:** HTML5 • CSS3 • JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://mauryavishal18.github.io/simple-calculator/)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mauryavishal18/simple-calculator)
+[![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-00C851?style=for-the-badge)](https://devtinder.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauryavishal18)
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎮 Rock Paper Scissors
+Modern animated game with score tracking and smooth UI transitions. Pure vanilla JS DOM mastery.
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Demo](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://mauryavishal18.github.io/rock-paper-scissors/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mauryavishal18/rock-paper-scissors)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Simon Says
+Memory sequence game with sound effects, color animations, and progressive difficulty. Classic game, clean code.
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Demo](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://mauryavishal18.github.io/simon-game/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mauryavishal18/simon-game)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧮 Calculator
+Clean, responsive calculator. Solid event handling, DOM logic, and pixel-perfect UI.
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Demo](https://img.shields.io/badge/Live-00C851?style=flat-square)](https://mauryavishal18.github.io/simple-calculator/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Mauryavishal18/simple-calculator)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mauryavishal18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauryavishal18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Mauryavishal18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauryavishal18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mauryavishal18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mauryavishal18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mauryavishal18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+</div>
+
+<br/>
+
+---
+
+## 🛣️ Dev Journey
+
+<div align="center">
+
+```
+▸ 2023   HTML + CSS → First webpage built 🌐
+    │
+▸ 2023   JavaScript → DOM, Events, Logic ⚡
+    │
+▸ 2024   Projects → Rock Paper Scissors, Simon Says, Calculator 🎮
+    │
+▸ 2024   React + Vite + TailwindCSS + Redux 💙
+    │
+▸ 2025   Backend → Node.js + Express + MongoDB + JWT + Socket.io 🔧
+    │
+▸ 2025   DevOps → Render + Vercel + MongoDB Atlas + Cloudinary ☁️
+    │
+▸ 2025   Shipped → DevTinder (Full-Stack, Live in Production) 🚀
+    │
+▸ 2026   GOAL: Senior Full-Stack Developer 🏆  [▓▓▓▓▓▓▓░░░] 70%
+```
 
 </div>
 
----
-
-## 🛣️ My Journey
-
-```
-2023  ──►  Started with HTML & CSS
-            ↓
-2023  ──►  Learned JavaScript & DOM
-            ↓
-2024  ──►  Built Games & Projects (Rock Paper Scissors, Simon Says)
-            ↓
-2024  ──►  Picked up React & TailwindCSS
-            ↓
-2025  ──►  Started Backend → Node.js + Express + MongoDB
-            ↓
-2025  ──►  Built DevTinder (Full Stack Project) 🚀
-            ↓
-2026  ──►  Full-Stack Developer [IN PROGRESS...] 🔥
-```
+<br/>
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mauryavishal18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauryavishal18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-maurya)
-[![Gmail](https://img.shields.io/badge/Gmail-vishal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishal@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
-*"Every expert was once a beginner. Keep building. Keep shipping."* 🚀
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mauryavishal18&color=6C63FF&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
