@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Maurya&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=57&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Maurya&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Always%20Shipping%20Something&descAlignY=57&descSize=16&animation=twinkling" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Mauryavishal18">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;Building+production-grade+applications+%F0%9F%9A%80;Clean+Code+%E2%80%A2+Scalable+Architecture+%E2%80%A2+Real+Impact;Currently+shipping%3A+DevTinder+%E2%80%94+Live+on+Render+%2B+Vercel" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Vishal+Maurya;Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;I+build+things+that+actually+go+live+%F0%9F%9A%80;Currently+mastering+React+%26+shipping+real+products;DevTinder+%E2%80%94+Live+on+Render+%2B+Vercel+%F0%9F%9F%A2" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -35,8 +35,8 @@ const vishal: Developer = {
     tools:     ["Git", "GitHub", "VS Code", "Postman", "Nodemon"],
   },
 
+  currentlyDoing:    "Mastering React • Deepening Full-Stack skills",
   currentlyShipping: "DevTinder — Live in Production 🟢",
-  openTo:            ["Freelance", "Collabs", "Full-Time Roles"],
   philosophy:        "Ship fast. Refactor smart. Never stop learning.",
 };
 ```
@@ -92,16 +92,16 @@ const vishal: Developer = {
 ### ⚡ DevTinder — *Production Live 🟢*
 > Developer matching platform — like Tinder, but for coders.
 
-A full-stack, production-deployed web app where developers discover each other, match based on tech skills, chat in real-time, and collaborate. Built end-to-end from scratch.
+A full-stack, production-deployed web app where developers discover each other, match based on tech skills, chat in real-time, and collaborate. Built completely from scratch — every line, every feature, every deployment decision was mine.
 
 **What's inside:**
-- 🔐 JWT auth + bcrypt + HTTP-only cookies + rate limiting
-- 💬 Real-time chat via Socket.io + video/audio calls (WebRTC)
-- 📊 GitHub & LeetCode stats integration
+- 🔐 JWT auth + bcrypt + HTTP-only cookies + rate limiting + Helmet security
+- 💬 Real-time chat via Socket.io + video/audio calls via WebRTC
+- 📊 GitHub & LeetCode live stats integration
 - 🧠 Dev DNA, Blind Dev Date, World Cup, AI Code Review features
-- 🖼️ WhatsApp-style image editor before send (crop/rotate/brightness)
+- 🖼️ WhatsApp-style image editor before send — crop, rotate, brightness
 - 🌐 Deployed on **Render** (backend) + **Vercel** (frontend) + **MongoDB Atlas**
-- 🛡️ Helmet, rate limiting, NoSQL injection protection, CORS hardening
+- 🛡️ NoSQL injection protection, CORS hardening, input validation
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -122,7 +122,7 @@ A full-stack, production-deployed web app where developers discover each other, 
 <td width="33%" valign="top">
 
 ### 🎮 Rock Paper Scissors
-Modern animated game with score tracking and smooth UI transitions. Pure vanilla JS DOM mastery.
+Fully animated, responsive game with real-time score tracking. Clean UI and smooth transitions built in pure vanilla JS.
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -135,7 +135,7 @@ Modern animated game with score tracking and smooth UI transitions. Pure vanilla
 <td width="33%" valign="top">
 
 ### 🧠 Simon Says
-Memory sequence game with sound effects, color animations, and progressive difficulty. Classic game, clean code.
+Interactive memory game with sound, colors, and increasing difficulty. Solid game logic and event-driven JS under the hood.
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -148,7 +148,7 @@ Memory sequence game with sound effects, color animations, and progressive diffi
 <td width="33%" valign="top">
 
 ### 🧮 Calculator
-Clean, responsive calculator. Solid event handling, DOM logic, and pixel-perfect UI.
+Lightweight, pixel-perfect calculator. Clean DOM manipulation, responsive layout, and proper event handling.
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -173,47 +173,37 @@ Clean, responsive calculator. Solid event handling, DOM logic, and pixel-perfect
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mauryavishal18&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=Mauryavishal18&theme=tokyonight&hide_border=true" width="65%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="100%"/>
 </div>
 
 <br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛣️ My Dev Journey
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mauryavishal18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-</div>
-
-<br/>
-
----
-
-## 🛣️ Dev Journey
+> *Not a roadmap. This actually happened.*
 
 <div align="center">
 
 ```
-▸ 2023   HTML + CSS → First webpage built 🌐
-    │
-▸ 2023   JavaScript → DOM, Events, Logic ⚡
-    │
-▸ 2024   Projects → Rock Paper Scissors, Simon Says, Calculator 🎮
-    │
-▸ 2024   React + Vite + TailwindCSS + Redux 💙
-    │
-▸ 2025   Backend → Node.js + Express + MongoDB + JWT + Socket.io 🔧
-    │
-▸ 2025   DevOps → Render + Vercel + MongoDB Atlas + Cloudinary ☁️
-    │
-▸ 2025   Shipped → DevTinder (Full-Stack, Live in Production) 🚀
-    │
-▸ 2026   GOAL: Senior Full-Stack Developer 🏆  [▓▓▓▓▓▓▓░░░] 70%
+2023  ──▶  Wrote my first HTML page. Fell in love with the web.
+              ↓
+2023  ──▶  Learned JavaScript — DOM, events, logic, the real stuff.
+              ↓
+2024  ──▶  Built real projects — Rock Paper Scissors, Simon Says, Calculator.
+              ↓
+2025  ──▶  Picked up React + Vite + TailwindCSS + Redux.
+           Then went backend — Node.js, Express, MongoDB, JWT, Socket.io.
+              ↓
+2026  ──▶  Deployed DevTinder to production — Render + Vercel + Atlas. 🚀
+           Now going deeper — mastering React, system design, real-world patterns.
+              ↓
+ ...   ──▶ Full-Stack Developer  [▓▓▓▓▓▓▓░░░]  building daily.
 ```
 
 </div>
@@ -226,10 +216,13 @@ Clean, responsive calculator. Solid event handling, DOM logic, and pixel-perfect
 
 <div align="center">
 
+<i>I'm always open to interesting projects, collabs, or just a good tech conversation.</i>
+
+<br/><br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Mauryavishal18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauryavishal18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-maurya)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vm9670469635@gmail.com)
 
 </div>
 
@@ -240,6 +233,10 @@ Clean, responsive calculator. Solid event handling, DOM logic, and pixel-perfect
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+<br/><br/>
+
+<sub>💡 <i>Every great developer was once a beginner who refused to quit.</i></sub>
 
 <br/><br/>
 
