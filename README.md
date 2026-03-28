@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Mauryavishal18">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Vishal+Maurya;Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;I+build+things+that+actually+go+live+%F0%9F%9A%80;Currently+mastering+React+%26+shipping+real+products;DevTinder+%E2%80%94+Live+on+Render+%2B+Vercel+%F0%9F%9F%A2" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Vishal+Maurya;Full-Stack+Developer+%7C+React+%2B+Node.js+%2B+MongoDB;I+build+things+that+actually+go+live+%F0%9F%9A%80;Currently+mastering+React+%26+shipping+real+products;DevTinder+%E2%80%94+Live+on+Vercel+%2B+Render+%F0%9F%9F%A2" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -89,7 +89,7 @@ const vishal: Developer = {
 <tr>
 <td width="100%" valign="top">
 
-### ⚡ DevTinder — *Production Live 🟢*
+### ⚡ DevTinder — *Live in Production 🟢*
 > Developer matching platform — like Tinder, but for coders.
 
 A full-stack, production-deployed web app where developers discover each other, match based on tech skills, chat in real-time, and collaborate. Built completely from scratch — every line, every feature, every deployment decision was mine.
@@ -110,7 +110,7 @@ A full-stack, production-deployed web app where developers discover each other, 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/🟢_Live_Demo-00C851?style=for-the-badge)](https://devtinder.vercel.app)
+[![🟢 Live Demo](https://img.shields.io/badge/🟢_Live_Demo-00C851?style=for-the-badge)](https://dev-tinder-blond.vercel.app/login)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauryavishal18)
 
 </td>
@@ -177,7 +177,7 @@ Lightweight, pixel-perfect calculator. Clean DOM manipulation, responsive layout
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=tokyo-night&hide_border=true&area=true&hide_title=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br/>
@@ -191,19 +191,19 @@ Lightweight, pixel-perfect calculator. Clean DOM manipulation, responsive layout
 <div align="center">
 
 ```
-2023  ──▶  Wrote my first HTML page. Fell in love with the web.
+2023  ──▶  Wrote my first HTML page. Fell in love with the web. 🌐
               ↓
-2023  ──▶  Learned JavaScript — DOM, events, logic, the real stuff.
+2023  ──▶  Learned JavaScript — DOM, events, logic, the real stuff. ⚡
               ↓
-2024  ──▶  Built real projects — Rock Paper Scissors, Simon Says, Calculator.
+2024  ──▶  Built real projects — Rock Paper Scissors, Simon Says, Calculator. 🎮
               ↓
 2025  ──▶  Picked up React + Vite + TailwindCSS + Redux.
-           Then went backend — Node.js, Express, MongoDB, JWT, Socket.io.
+           Then went backend — Node.js, Express, MongoDB, JWT, Socket.io. 🔧
               ↓
 2026  ──▶  Deployed DevTinder to production — Render + Vercel + Atlas. 🚀
            Now going deeper — mastering React, system design, real-world patterns.
               ↓
- ...   ──▶ Full-Stack Developer  [▓▓▓▓▓▓▓░░░]  building daily.
+ ...   ──▶ Full-Stack Developer  [▓▓▓▓▓▓▓░░░]  building every day. 🏆
 ```
 
 </div>
@@ -216,13 +216,14 @@ Lightweight, pixel-perfect calculator. Clean DOM manipulation, responsive layout
 
 <div align="center">
 
-<i>I'm always open to interesting projects, collabs, or just a good tech conversation.</i>
+<i>Always open to interesting projects, collabs, or just a good tech conversation.</i>
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mauryavishal18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mauryavishal18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-maurya)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vm9670469635@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalmaurya-it)
+[![Gmail](https://img.shields.io/badge/Gmail-vm9670469635@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vm9670469635@gmail.com)
+[![Live Project](https://img.shields.io/badge/🟢_DevTinder_Live-00C851?style=for-the-badge)](https://dev-tinder-blond.vercel.app/login)
 
 </div>
 
@@ -236,7 +237,10 @@ Lightweight, pixel-perfect calculator. Clean DOM manipulation, responsive layout
 
 <br/><br/>
 
-<sub>💡 <i>Every great developer was once a beginner who refused to quit.</i></sub>
+<sub>© 2026 Vishal Maurya — Built from scratch, shipped to production.</sub>
+
+<br/>
+<sub>Licensed under <a href="https://github.com/Mauryavishal18/devtinder/blob/main/LICENSE">MIT License</a> — use freely, but keep the credit. 🙏</sub>
 
 <br/><br/>
 
