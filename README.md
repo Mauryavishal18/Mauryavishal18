@@ -168,16 +168,17 @@ Lightweight, pixel-perfect calculator. Clean DOM manipulation, responsive layout
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mauryavishal18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauryavishal18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mauryavishal18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauryavishal18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mauryavishal18&theme=tokyonight&hide_border=true" width="65%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mauryavishal18&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauryavishal18&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mauryavishal18&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mauryavishal18&theme=tokyonight&utcOffset=5.5" height="150"/>
 </div>
 
 <br/>
